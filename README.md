@@ -1,4 +1,4 @@
-angularjs-datepicker
+angularjs-date
 ====================
 
-A datepicker component made in AngularJS
+Date components for AngularJS. It includes a date input tag and a date picker interface.
