@@ -1,4 +1,4 @@
-angular.module('components', []).
+angular.module('ui.date', []).
   directive('dateInput', function() {
     
     return {
